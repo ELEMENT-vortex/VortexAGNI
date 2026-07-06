@@ -1,4 +1,4 @@
-# Vortex AGNI
+# Vortex Kernel
 
 **Kernel para Redmi Note 10 Pro (sweet/sweetin)**
 
