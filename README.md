@@ -24,6 +24,6 @@ Instala tambi?n [VORTEX-exchange](https://github.com/ELEMENT-vortex/VORTEX-excha
 
 | Kernel | Base | Estado |
 |--------|------|--------|
-| Vortex AGNI | AGNI 1.4 | ? Disponible |
-| Vortex Spiteful | Spiteful | ?? Pr?ximamente |
-| Vortex Vantom | Vantom | ?? Pr?ximamente |
+| Vortex AGNI | AGNI 1.4 |  Disponible |
+| Vortex Spiteful | Spiteful | Disponible  |
+| Vortex Vantom | Vantom | Disponible  |
