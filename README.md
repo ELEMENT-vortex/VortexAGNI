@@ -15,7 +15,7 @@ Instala tambien [VORTEX-exchange](https://github.com/ELEMENT-vortex/VORTEX-excha
 ## Especificaciones
 
 - Dispositivo: Redmi Note 10 Pro (sweet / sweetin)
-- Versi?n del kernel: \4.14.357-VortexAGNI-1.4\
+- Version del kernel: \4.14.357-VortexAGNI-1.4\
 - Vortex API v2.2 , 28 nodos sysfs (SAFE + P1)
 - KernelSU integrado
 - AOSP / Android 16 / SDK 36
