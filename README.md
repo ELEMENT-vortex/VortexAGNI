@@ -8,7 +8,7 @@ Base: AGNI 1.4 | API: Vortex API v2.2 | ROM: AOSP / Android 16 (SDK 36)
 
 Ve a [Releases](../../releases) para descargar el kernel ZIP.
 
-## M?dulo KSU
+## Modulo KSU
 
 Instala tambi?n [VORTEX-exchange](https://github.com/ELEMENT-vortex/VORTEX-exchange) desde KernelSU-Next.
 
